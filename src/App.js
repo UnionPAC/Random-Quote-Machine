@@ -1,5 +1,9 @@
 import React, {useState} from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faFacebookSquare } from '@fortawesome/free-brands-svg-icons';
 import './App.scss';
+
+const facebookIcon = <FontAwesomeIcon icon={faFacebookSquare} />
 
 function App() {
   const [quote, newQuote] = useState("An unexamined life is not worth living.")
@@ -28,7 +32,7 @@ function App() {
               <a href="twitter.com/intent/tweet" id="tweet-quote"></a>
             </div>
             <div id="facebook-icon">
-              <a href="twitter.com/intent/tweet" id="tweet-quote"></a>
+              <a href="" id="facebook-quote">{facebookIcon}</a>
             </div>
           </div>
         </div>
