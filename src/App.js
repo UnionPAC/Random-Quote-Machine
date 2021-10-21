@@ -1,22 +1,37 @@
-import logo from './logo.svg';
-import './App.css';
+import React, {useState} from 'react';
+import './App.scss';
 
 function App() {
+  const [quote, newQuote] = useState("An unexamined life is not worth living.")
+  const [author, newAuthor] = useState("Socrates")
+
+  const changeQuoteAndAuthor = () => {
+    newQuote("If you want to lift yourself up, lift up someone else.");
+    newAuthor("Booker T. Washington");
+  }
+  
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <div id="quote-box">
+          <div id="text-box">
+            <p id="text">"{quote}"</p>
+          </div>
+          <div id="author-box">
+            <p id="author">- {author}</p>
+          </div>
+          <div id="quote-button-box">
+            <button id="new-quote" onClick={changeQuoteAndAuthor}>New Quote</button>
+          </div>
+          <div className="social">
+            <div id="twitter-icon">
+              <a href="twitter.com/intent/tweet" id="tweet-quote"></a>
+            </div>
+            <div id="facebook-icon">
+              <a href="twitter.com/intent/tweet" id="tweet-quote"></a>
+            </div>
+          </div>
+        </div>
       </header>
     </div>
   );
