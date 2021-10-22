@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/UnionPAC/Random-Quote-Machine/static/css/main.12c2647f.chunk.css",
-    "main.js": "/UnionPAC/Random-Quote-Machine/static/js/main.04bb183b.chunk.js",
-    "main.js.map": "/UnionPAC/Random-Quote-Machine/static/js/main.04bb183b.chunk.js.map",
+    "main.js": "/UnionPAC/Random-Quote-Machine/static/js/main.2f0a4eb2.chunk.js",
+    "main.js.map": "/UnionPAC/Random-Quote-Machine/static/js/main.2f0a4eb2.chunk.js.map",
     "runtime-main.js": "/UnionPAC/Random-Quote-Machine/static/js/runtime-main.ba4ec44c.js",
     "runtime-main.js.map": "/UnionPAC/Random-Quote-Machine/static/js/runtime-main.ba4ec44c.js.map",
     "static/js/2.f5bd87a5.chunk.js": "/UnionPAC/Random-Quote-Machine/static/js/2.f5bd87a5.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ba4ec44c.js",
     "static/js/2.f5bd87a5.chunk.js",
     "static/css/main.12c2647f.chunk.css",
-    "static/js/main.04bb183b.chunk.js"
+    "static/js/main.2f0a4eb2.chunk.js"
   ]
 }
