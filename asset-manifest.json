@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/UnionPAC/Random-Quote-Machine/static/css/main.12c2647f.chunk.css",
+    "main.js": "/UnionPAC/Random-Quote-Machine/static/js/main.04bb183b.chunk.js",
+    "main.js.map": "/UnionPAC/Random-Quote-Machine/static/js/main.04bb183b.chunk.js.map",
+    "runtime-main.js": "/UnionPAC/Random-Quote-Machine/static/js/runtime-main.ba4ec44c.js",
+    "runtime-main.js.map": "/UnionPAC/Random-Quote-Machine/static/js/runtime-main.ba4ec44c.js.map",
+    "static/js/2.f5bd87a5.chunk.js": "/UnionPAC/Random-Quote-Machine/static/js/2.f5bd87a5.chunk.js",
+    "static/js/2.f5bd87a5.chunk.js.map": "/UnionPAC/Random-Quote-Machine/static/js/2.f5bd87a5.chunk.js.map",
+    "static/js/3.826f97b0.chunk.js": "/UnionPAC/Random-Quote-Machine/static/js/3.826f97b0.chunk.js",
+    "static/js/3.826f97b0.chunk.js.map": "/UnionPAC/Random-Quote-Machine/static/js/3.826f97b0.chunk.js.map",
+    "index.html": "/UnionPAC/Random-Quote-Machine/index.html",
+    "static/css/main.12c2647f.chunk.css.map": "/UnionPAC/Random-Quote-Machine/static/css/main.12c2647f.chunk.css.map",
+    "static/js/2.f5bd87a5.chunk.js.LICENSE.txt": "/UnionPAC/Random-Quote-Machine/static/js/2.f5bd87a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba4ec44c.js",
+    "static/js/2.f5bd87a5.chunk.js",
+    "static/css/main.12c2647f.chunk.css",
+    "static/js/main.04bb183b.chunk.js"
+  ]
+}
