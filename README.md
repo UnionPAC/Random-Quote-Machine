@@ -1,4 +1,4 @@
-Random Quote Machine 💭
+#Random Quote Machine 💭
 
 This is Random Quote Machine App created for one of the FreeCodeCamp 'Front End Development Libraries' final projects!
 
